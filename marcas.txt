@@ -9,3 +9,5 @@ Samyang
 Laowa
 ZEISS BATIS
 7artisan
+Canon
+Nikon
