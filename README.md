@@ -1,1 +1,1 @@
-Este es un poryecto personal de listado de objetivos para camaras mirrorles.
+Este es un proyecto personal de listado de objetivos para camaras mirrorless. Colaboracion e ideas son bienvenidas
