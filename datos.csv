@@ -151,9 +151,9 @@ Fijo,Yongnuo,Telecorto,Foto de Calle/ Retratos,APS-C,Yongnuo YN33mm F1.4S DA DSM
 Fijo,Yongnuo,Telecorto,Foto de Calle/ Retratos,APS-C,Yongnuo YN56mm F1.4S DA DSM para Sony E, $345.00 ,4,,,,E
 Fijo,7artisan,Gran Angular,Foto de Paisaje,Full Frame,7artisan 18mm F5.6 Pancake Sony E, $70.00 ,4,49mm,30cm,,E
 Fijo,Tamron,Macro,Macro,Full Frame,Tamron AF 90mm F/2.8 Sony E, $699.00,5,,,,E
-Fijo,Viltrox,Gran Angular,Vlog/Paisajes,Full Frame,Viltrox AF 20mm f/2.8 Z. Full Frame para Nikon Z, $179.00,,,,,,Z
-Fijo,Yongnuo,Telecorto,Retratos,Full Frame,Yongnuo YN50mm F1.8Z DF DSM para Nikon Z, $369.00,,,,,,Z
-Fijo,Viltrox,Gran Angular,Vlog/Paisajes/Arquitectura,APS-C,Viltrox AF 13mm f/1.4 Z APS-C para Nikon Z, $489.00,,,,,Z
+Fijo,Viltrox,Gran Angular,Vlog/Paisajes,Full Frame,Viltrox AF 20mm f/2.8 Z. Full Frame para Nikon Z, $179.00,4,52mm,35cm,220gr,Z
+Fijo,Yongnuo,Telecorto,Retratos,Full Frame,Yongnuo YN50mm F1.8Z DF DSM para Nikon Z, $369.00,4,58mm,35cm,350gr,Z
+Fijo,Viltrox,Gran Angular,Vlog/Paisajes/Arquitectura,APS-C,Viltrox AF 13mm f/1.4 Z APS-C para Nikon Z, $489.00,4,55mm,35cm,290gr,Z
 Fijo,Viltrox,Telecorto,Retratos,Full Frame,Viltrox AF 85mm f/1.8 Z Full Frame para Nikon Z, $399.00,,,,,Z
 Zoom,Sigma,Gran Angular - Telecorto,Todo en uno,APS-C,Sigma 18-50mm F2.8 DC Contemporary Canon RF, $629.00 ,,,,,RF
 Zoom,Sigma,Gran Angular - Angular,Vlog/ Paisajes/ Arquitectura,APS-C,Sigma 10-18mm F/2.8 DC DN Contemporary para Canon RF, $729.00 ,,,,,RF
@@ -166,6 +166,9 @@ Zoom,Nikon,Gran Angular - Telecorto,Vlog Arquitectura Paisaje,Full Frame,Nikon N
 Zoom,Nikon,Angular - Telecorto,Todo en Uno,Full Frame,Nikon NIKKOR Z 24-70mm f/4 S,$996.95,4,,,,Z
 Zoom,Nikon,Telecorto - Teleobjetivo,Todo en Uno,Full Frame,Nikon NIKKOR Z 70-200mm f/2.8 VR S,,,,,,Z
 Fijo,Nikon,Telecorto,Retratos,Full Frame,Nikon NIKKOR Z 85mm f/1.8 S,,,,,,Z
+Fijo,Nikon,Teleobjetivo,Retratos,Full Frame,Nikon NIKKOR Z MC 105mm f/2.8 VR S,$849.95,,,,,Z
+Fijo,Nikon,Telecorto,Retratos / Foto de Calle / Productos,Full Frame,Nikon NIKKOR Z 40mm f/2,$229.95,,,,,Z
+Fijo,Nikon,Angular,Retratos / Foto de Calle / Productos,Full Frame,Nikon NIKKOR Z 26mm f/2.8,$339.95,,,,,Z
 Fijo,Nikon,Telecorto,Retratos,Full Frame,Nikon NIKKOR Z 50mm f/1.8 S,,,,,,Z
 Fijo,Nikon,Telecorto,Retratos Foto de Calle / Foto de Producto,Full Frame,Nikon NIKKOR Z 35mm f/1.8 S,,,,,,Z
 Fijo,Nikon,Telecorto,Vlog / Foto de paisajes / Arquitectura,Full Frame,Nikon NIKKOR Z 24mm f/1.8 S,,,,,,Z
