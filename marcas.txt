@@ -11,3 +11,6 @@ ZEISS BATIS
 7artisan
 Canon
 Nikon
+Fuji
+Panasonic
+Olympus

@@ -161,7 +161,8 @@ Zoom,Canon,Gran Angular - Telecorto,Todo en Uno,Full Frame,Canon RF 24-105mm f/4
 Fijo,Canon,Telecorto,Retratos,Full Frame,Canon RF85MM f/2 Macro IS STM, $599.00 ,,,,,RF
 Fijo,Yongnuo,Telecorto,Foto de calle,Full Frame,Yongnuo YN35mm F2R DF DSM para Canon R, $399.00 ,,,,,RF
 Fijo,Yongnuo,Telecorto,Retratos,Full Frame,Yongnuo YN85mm F1.8R DF DSM para Canon R, $398.00 ,,,,,RF
-Fijo,TTartisan,Angular,Foto de calle,APS-C,Ttartisan 23mm F1.8, $127.00,4,52mm,30cm,210gr,E,,
+Fijo,TTartisan,Angular,Foto de calle,APS-C,Ttartisan 23mm F1.8, $127.00,4,52mm,30cm,210gr,E,
+Fijo,TTartisan,Telecorto,Foto de retratos,APS-C,TTartisan 56mm F1.8, $136.00,4,52mm,30cm,210gr,E,
 Zoom,Nikon,Gran Angular - Telecorto,Vlog Arquitectura Paisaje,Full Frame,Nikon NIKKOR Z 14-30mm f/4 S, $1149.95,4,82mm,,,Z
 Zoom,Nikon,Angular - Telecorto,Todo en Uno,Full Frame,Nikon NIKKOR Z 24-70mm f/4 S,$996.95,4,,,,Z
 Zoom,Nikon,Telecorto - Teleobjetivo,Todo en Uno,Full Frame,Nikon NIKKOR Z 70-200mm f/2.8 VR S,,,,,,Z
@@ -181,3 +182,16 @@ Zoom,Nikon,Angular - Teleobjetivo,Lente de kit,Full Frame,Nikon NIKKOR Z 14-120m
 Zoom,Nikon,Gran Angular - Angular,Paisajes / Vlog / Arquitectura,Full Frame,Nikon NIKKOR Z 17-28mm f/2.8,$996.95,,,,,Z
 Zoom,Nikon,Angular - Telecorto,Bodas / Reportajes / Retratos,Full Frame,Nikon NIKKOR Z 28-75mm f/2.8,$896.95,,,,,Z
 Zoom,Nikon,Gran Angular - Angular,Vlog / Arquitectura / Paisaje,Full Frame,Nikon NIKKOR Z 14-24mm f/2.8 S,$1996.95,,,,,Z
+Fijo,Canon,Telecorto,Foto de calle/Macro/Foto de Retrato,Full Frame,Lente Canon 35mm RF IS STM Macro, $449.00,5,52mm,17cm,357gr,RF
+Fijo,Fuji,Angular,Foto de Calle / Foto de paisaje urbano,APS-C,Fujifilm XF23mmF2 R WR - Black,$449,4,,,,X
+Fijo,Fuji,Telecorto,Retratos,APS-C,Fujifilm XF50mmF2 R WR Lens - Black,$449,5,,,,X
+Fijo,Fuji,Angular,Paisajes / arquitectura,APS-C,Fujifilm Fujinon XF16mmF2.8 R WR,$339,4,,,,X
+Fijo,Panasonic,Telecorto,Retratos,Full Frame,Panasonic S 50mm f1.8,$447.99,4,,,,L
+Zoom,Panasonic,Angular - Telecorto,Todo en uno / kit / bueno para iniciar,Full Frame,Panasonic LUMIX S 20-60mm F3.5-F5.6,$369,4,,,,L
+Fijo,Olympus,Angular,Paisaje/ arquitectura,Micro 4/3,Olympus 17mm f/1.8,$431.99,4,,,,OM
+Fijo,Olympus,Angular,Retratos,Micro 4/3,M.Zuiko Digital 45mm F1.8,$399.99,4,,,,OM
+Fijo,Olympus,Telecorto,Retratos,Micro 4/3,Olympus Zuiko 75 1.8,$699,4,,,,OM
+Zoom,Olympus,Teleobjetivo,Vida salvaje,Micro 4/3,Olympus M.Zuiko Digital ED 100-400mm f5-6.3,$1215,4,,,,OM
+Zoom,Olympus,Angular - Telecorto,Kit / Foto de calle / Todo en uno,Micro 4/3,M.Zuiko Digital ED 12-45mm F4.0 PRO,$699.99,4,,,,OM
+Zoom,Olympus,Gran Angular - Angular,Foto de Paisaje / Foto de arquitectura/ Foto de calle,Micro 4/3,Olympus M.ZUIKO DIGITAL ED 8-25mm f/4 PRO,$1099.99,4,,,,OM
+Fijo,Olympus,Telecorto,Foto de Retratos,Micro 4/3,OM SYSTEM OLYMPUS M.Zuiko Digital 25mm F1.8,$319.95,4,,,,OM
