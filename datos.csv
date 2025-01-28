@@ -93,6 +93,7 @@ Fijo,Sigma,Telecorto,Retratos,APS-C,Sigma 56mm f1.4 DC DN Contemporary APS-C par
 Fijo,Sigma,Angular,Videos Youtube/ Streaming,Full Frame,Sigma 24mm f1.4 DG HSM Art Full Frame para Sony E,939.00,5,,,,E
 Zoom,Sigma,Angular Telecorto,Vlog/ paisajes/Retratos,APS-C,Sigma 18-50mm f/2.8 DC DN Contemporary APS-C para Sony E,649.00,5,,,,E
 Zoom,Sigma,Angular Telecorto,Foto de calle/ Retratos/ Foto de Comida,Full Frame,Sigma 28-70mm f/2.8 DG DN Contemporary Full Frame para Sony E,998.99,5,,,,E
+Zoom,Sigma,Angular Telecorto,Foto de calle/ Retratos/ Foto de Comida / Fotos de Deportes / Pajaros ,Full Frame,Sigma 28-105mm F2,8 DG DN ART para Sony E,1525,5,,,,E
 Fijo,Yongnuo,Telecorto,Retratos,Full Frame,Yongnuo YN35mm F2S DF DSM para Sony,319.00,5,52mm,35cm,295gr,E
 Zoom,Sigma,TeleObjetivo,Vida salvaje / deportes,Full Frame,Sigma 100-400mm f/5-6.3 DG DN OS/ Contemporaneo para Sony E,998.99,5,,,,E
 Fijo,Yongnuo,Telecorto,Retratos,Full Frame,Yongnuo YN50mm f/1.8s DF DSM para Sony E,370.00,4,,,,E
@@ -150,7 +151,7 @@ Fijo,Viltrox,Gran Angular,Vlog/ Paisajes/ Videos Youtube,APS-C,Viltrox AF 13mm f
 Fijo,Yongnuo,Telecorto,Foto de Calle/ Retratos,APS-C,Yongnuo YN33mm F1.4S DA DSM para Sony E,320.00 ,4,,,,E
 Fijo,Yongnuo,Telecorto,Foto de Calle/ Retratos,APS-C,Yongnuo YN56mm F1.4S DA DSM para Sony E,345.00 ,4,,,,E
 Fijo,7artisan,Gran Angular,Foto de Paisaje,Full Frame,7artisan 18mm F5.6 Pancake Sony E,70.00,4,49mm,30cm,,E
-Fijo,Tamron,Macro,Macro,Full Frame,Tamron AF 90mm F/2.8 Sony E,699.00,5,,,,E
+Fijo,Tamron,Macro,Macro,Full Frame,Lente Tamron 90mm F/2,8 DiIII Macro VXD para Sony,749.00,5,,,,E
 Fijo,Viltrox,Gran Angular,Vlog/Paisajes,Full Frame,Viltrox AF 20mm f/2.8 Z. Full Frame para Nikon Z,179.00,4,52mm,35cm,220gr,Z
 Fijo,Yongnuo,Telecorto,Retratos,Full Frame,Yongnuo YN50mm F1.8Z DF DSM para Nikon Z,369.00,4,58mm,35cm,350gr,Z
 Fijo,Viltrox,Gran Angular,Vlog/Paisajes/Arquitectura,APS-C,Viltrox AF 13mm f/1.4 Z APS-C para Nikon Z,489.00,4,55mm,35cm,290gr,Z
@@ -195,3 +196,8 @@ Zoom,Olympus,Teleobjetivo,Vida salvaje,Micro 4/3,Olympus M.Zuiko Digital ED 100-
 Zoom,Olympus,Angular - Telecorto,Kit / Foto de calle / Todo en uno,Micro 4/3,M.Zuiko Digital ED 12-45mm F4.0 PRO,699.99,4,,,,OM
 Zoom,Olympus,Gran Angular - Angular,Foto de Paisaje / Foto de arquitectura/ Foto de calle,Micro 4/3,Olympus M.ZUIKO DIGITAL ED 8-25mm f/4 PRO,1099.99,4,,,,OM
 Fijo,Olympus,Telecorto,Foto de Retratos,Micro 4/3,OM SYSTEM OLYMPUS M.Zuiko Digital 25mm F1.8,319.95,4,,,,OM
+Zoom,Tamron,Angular,Videos Youtube/ Streaming,APS-C,Tamron 11-20mm f/2.8 Di III-A RXD para Canon RF,698.00,4,,,,RF
+Fijo,Sirui,Angular,Videos Youtube / Streaming,APS-C,Sirui 16mm F/1.2 AF para Sony E,319.20,3,,,,E
+Fijo,Sirui,Angular,Lente para CINE,Sirui NightWalker 16mm T/1.2 AF S35 para Sony E,319.20,3,,,,E
+Fijo,Sirui,TeleCorto,Retratos / Foto Producto,APS-C,Sirui 56mm F/1.2 AF para Sony E,319.20,3,,,,E
+Fijo,Sirui,TeleCorto,Retratos,APS-C,Sirui 75mm F/1.2 AF para Sony E,319.20,3,,,,E
