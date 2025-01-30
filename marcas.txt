@@ -4,10 +4,14 @@ Sigma
 Viltrox 
 Yongnuo 
 Tokina 
-Ttartisan
+TTartisan
 Samyang
 Laowa
 ZEISS BATIS
 7artisan
 Canon
 Nikon
+Fuji
+Panasonic
+Olympus
+Sirui
